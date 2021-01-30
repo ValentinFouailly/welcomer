@@ -1,8 +1,22 @@
 {
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.6.4"
   },
   "scripts": {
     "start": "node main.js"
-  }
+  },
+  "name": "welcomer",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinFouailly/welcomer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinFouailly/welcomer/issues"
+  },
+  "homepage": "https://github.com/ValentinFouailly/welcomer#readme"
 }

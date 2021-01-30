@@ -1,7 +1,6 @@
 {
-  "token": "Bot token",
   "prefix": "!",
-  "welcome_channel": "welcome", 
+  "welcome_channel": "general", 
   "embed_emoji": "",
   "logchannel": "logs",
   "activity1": "for new users!",
@@ -12,5 +11,6 @@
   "ownerID": "532677204220444682",
   "customtext": "Have a nice time.",
   "embed_color": "363A3F",
-  "embed_guildname": ""
+  "embed_guildname": "",
+  "BOT_TOKEN": "ODA0MzU1MzE5Mzg3NTIxMDM1.YBLIRA.L-GpoxR2KjsbqZjAeRJM6e8nk38"
 }
